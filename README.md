@@ -5,6 +5,7 @@ Analysis of Algorithms Lab
 Prerequisite: Basic knowledge of programming and data structure
 
 Lab Objectives:
+
 1 To introduce the methods of designing and analyzing algorithms
 
 2 Design and implement efficient algorithms for a specified application
