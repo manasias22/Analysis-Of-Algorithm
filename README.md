@@ -4,7 +4,7 @@ Analysis of Algorithms Lab
 
 Prerequisite: Basic knowledge of programming and data structure
 
-Lab Objectives:
+#Lab Objectives:
 
 1 To introduce the methods of designing and analyzing algorithms
 
@@ -16,7 +16,7 @@ problem.
 4 Analyze worst-case running time of algorithms and understand fundamental algorithmic
 problems.
 
-Lab Outcomes: At the end of the course, the students will be able to
+#Lab Outcomes: At the end of the course, the students will be able to
 
 1 Implement the algorithms using different approaches.
 
