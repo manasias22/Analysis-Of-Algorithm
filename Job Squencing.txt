@@ -53,7 +53,7 @@ int main(void) {
   }
 
   jobSequencingWithDeadline(jobs, n);
-  getch():
+  getch();
   return 0;
 }
 
