@@ -1,7 +1,7 @@
 
 -AIM: IMPLEMENT INSERTION SORT
 CPDE:
-#incl-ude <math.h>
+#include <math.h>
 #include <stdio.h>
 
 int i,n,a[50];
