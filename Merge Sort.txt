@@ -64,7 +64,7 @@ int main()
     printf("Enter no of element to be sorted:");
     scanf("%d",&n);
     int arr[n];
-    arr_size = n;
+    arr_size = 50;
     printf("Enter an array:");
     for(i=0;i<arr_size;i++)
     {
