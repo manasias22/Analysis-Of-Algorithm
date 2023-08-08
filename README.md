@@ -1,5 +1,5 @@
-# Analysis-Of-Algorithm
-Analysis of Algorithms Lab
+<H1> # Analysis-Of-Algorithm
+**Analysis of Algorithms Lab**
 
 
 Prerequisite: Basic knowledge of programming and data structure
